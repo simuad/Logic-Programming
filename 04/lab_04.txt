@@ -1,0 +1,4 @@
+4 užduotis - Paieška.
+
+Apibrėžkite predikatą kurio vienas ar daugiau argumentų - įėjimo argumentai, nusakantys pradinius užduoties duomenis ir vienas argumentas atitinka sprendinį. Sprendinys - Prologo struktūra (sąrašas ar pan.) - turi būti apibrėžtas konstruktyviai. Predikatas turi turėti galimybę ieškoti alternatyvių sprendinių. Ieškodamas sprendinių šis predikatas neturėtų nieko spausdinti į ekraną (predikatai print/1, format/2 ir t.t...). Didžiausias dėmesys turi būti skiriamas ne sprendimo efektyvumui, o deskriptyviajam (Prologo prasme) apibrėžimui. Jokiu būdu nereikia ieškoti deterministinių uždavinio sprendimo algoritmų, nors tokie ir būtų.
+Taip pat apibrėžkite kitą predikatą, kuris išveda sprendinį į ekraną skaitomu pavidalu (pvz., pseudo-grafiku).

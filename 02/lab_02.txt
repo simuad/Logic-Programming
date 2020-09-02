@@ -1,0 +1,3 @@
+2 užduotis - Galimai rekursyviosios programos.
+
+Apibrėžkite paskirtus du predikatus pagal nurodytas sąlygas. Atkreipkite dėmesį į amžino ciklo galimybę vykdymo metu. Nustatykite, kokioms laisvų ir suvaržytų kintamųjų kombinacijoms gali būti užduodami tikslai. Pirmajam paskirtajam predikatui pateikite paaiškinantį brėžinį. Brėžinį braižyti galima ir popieriuje arba kuria nors kompiuterių programa (pvz., Gimp). Atkreipkite dėmesį, kad ir nubraižytą brėžinį reikia įkelti į virtualią mokymosi aplinką. Mokėkite paaiškinti, kaip Prolog vykdo programą, kaip vykdoma paieška. Mokėkite naudoti ir paaiškinti trasavimą (trace.).

@@ -1,0 +1,18 @@
+1 Užduotis - Reliaciniai sąryšiai
+
+Apibrėžti paskirtus keturis predikatus. Likusių variantų sprendimą sugebėti paaiškinti, esant reikalui. Nubraižyti programoje aprašytą genealoginį medį (savo arba išgalvotą). Genealoginį medį braižyti galima ir popieriuje arba kuria nors kompiuterių programa (pvz., Gimp). Atkreipkite dėmesį, kad ir nubraižytą genealoginį medį reikia įkelti į virtualią mokymosi aplinką.
+
+Užduoties sąlyga
+
+Duomenų bazėje saugomi duomenys apie asmenis ir jų giminystės ryšius faktais:
+    asmuo(Vardas, Lytis, Amžius, Pomėgis);
+    mama(Mama, Vaikas);
+    pora(Vyras, Žmona).
+
+Faktų aibė sudaroma atsižvelgiant į šias prielaidas:
+    Kiekvienas asmuo vienareikšmiškai identifikuojamas vardu;
+    Kiekvienoje šeimoje vaikai skirtingo amžiaus;
+    Kiekvienas vaikas turi ir tėtį, ir mamą;
+
+Detales, neapibrėžtas užduoties sąlygoje, studentas gali interpretuoti savo nuožiūra.
+Pastaba: jeigu parinksite faktus iliustruojančius Jūsų genealoginį medį, tai bus lengviau tikrinti programos teisingumą.

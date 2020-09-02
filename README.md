@@ -1,0 +1,1 @@
+My solutions to VU MIF Logic Programming course assignments with SWI-Prolog.
